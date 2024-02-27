@@ -1,17 +1,17 @@
-#Anime Info.
+# Anime Info.
 
-##Naruto
+## Naruto
 
-##Hokages in Naruto
-*Hashirama Senju
-*Tobirama Senju
-*Hiruzen Sarutobi
-*Minato Namikaze
-*Tsunade
-*Kakashi Hatake
-*Naruto Uzumaki
+## Hokages in Naruto
+* Hashirama Senju
+* Tobirama Senju
+* Hiruzen Sarutobi
+* Minato Namikaze
+* Tsunade
+* Kakashi Hatake
+* Naruto Uzumaki
     
-##Images
+## Images
  
 ![Image of Seven Hokages](https://pm1.aminoapps.com/6601/43e8c383f87b4b3bf3d7dbcb66d1f9bafdb546a8_hq.jpg)
 
